@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://45esti.github.io/EKemp.github.io/esti.png">
+  <img src="https://fb-s-b-a.akamaihd.net/h-ak-xpt1/v/t1.0-1/p100x100/15135733_10157679148560456_1904243174674435008_n.jpg?oh=b410459d54f6590f02ffd52992d2ec17&oe=595FCF98&__gda__=1496091815_c4e3ab005f62014fd99f8ed4213a01ea">
   <br/>
 </p>
 
