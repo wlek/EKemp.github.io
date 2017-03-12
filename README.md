@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/static/blog/images/google.a51985becaa6.png">
+  <img src="https://www.dropbox.com/s/5twk8wntnanmuxi/Esti.png?dl=0">
   <br/>
 </p>
 
