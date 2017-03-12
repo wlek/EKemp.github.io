@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://45esti.github.io/EKemp.github.io/esti.jpg">
+  <img src="https://www.dropbox.com/s/77wcgcqi795yrct/Esti.JPG?dl=0">
   <br/>
 </p>
 
